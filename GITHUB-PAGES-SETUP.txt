@@ -1,0 +1,9 @@
+GitHub Pages setup
+
+1. Upload the contents of this folder to the root of your GitHub repository (keep the .github folder).
+2. In the repository, open Settings > Pages.
+3. Under Build and deployment > Source, select GitHub Actions (not Deploy from a branch).
+4. Push/commit the files to the main branch. The workflow will build the Vite app and publish the dist folder.
+5. Open Actions and wait for Deploy to GitHub Pages to finish successfully. The live URL will then appear in Settings > Pages.
+
+The workflow derives the correct project-site base path from the repository name.

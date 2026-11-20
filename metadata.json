@@ -1,0 +1,6 @@
+{
+  "name": "IBONDA Admin Dashboard",
+  "description": "SaaS administration dashboard for IBONDA to manage real estate agencies, subscriptions, plans, payments, users, support, notifications, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
